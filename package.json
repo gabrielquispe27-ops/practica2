@@ -5,18 +5,19 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"(Sin pruebas todavia)\" && exit 0"
+
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/felixramirezhuamanchaqui/laboratorio-ci-cd.git"
+    "url": "git+https://github.com/gabrielquispe27-ops/practica2.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/felixramirezhuamanchaqui/laboratorio-ci-cd/issues"
+    "url": "https://github.com/gabrielquispe27-ops/practica2/issues"
   },
-  "homepage": "https://github.com/felixramirezhuamanchaqui/laboratorio-ci-cd#readme",
+  "homepage": "https://github.com/gabrielquispe27-ops/practica2#readme",
   "dependencies": {
     "express": "^5.1.0"
   }
