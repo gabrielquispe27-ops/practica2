@@ -3,7 +3,7 @@ const express = require('express');
 const app = express();
 
 // Definimos un puerto
-const PORT = 4000;
+const PORT = 3000;
 
 // Ruta principal
 app.get('/', (req, res) => {
